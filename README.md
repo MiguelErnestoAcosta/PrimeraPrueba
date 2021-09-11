@@ -1,2 +1,2 @@
 # PrimeraPrueba
-Prueba
+Prueba de Funcionalidad
